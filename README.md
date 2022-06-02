@@ -35,14 +35,10 @@ A test file. Using three different datasets to test our function and related met
 
 # Datasets
 
-* insurance.csv
-
-[insurance](https://www.kaggle.com/mirichoi0218/insurance)
+* insurance.csv [insurance](https://www.kaggle.com/mirichoi0218/insurance)
 
 This dataset was inspired by the book Machine Learning with R by Brett Lantz. The data contains medical information and costs billed by health insurance companies. It contains 1338 rows of data and the following columns: age, gender, BMI, children, smoker, region, insurance charges.
 
-* Real estate.csv
-
-[Real estate](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
+* Real estate.csv [Real estate](https://www.kaggle.com/quantbruce/real-estate-price-prediction)
 
 This real estate dataset was built for regression analysis, linear regression, multiple regression, and prediction models. It includes the date of purchase, house age, location, distance to nearest MRT station, and house price of unit area. 
